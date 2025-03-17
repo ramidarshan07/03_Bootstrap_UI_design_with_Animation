@@ -4,6 +4,10 @@
     font-family: "Roboto", serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .carousel-item img {
     width: 100%;
     height: 100vh;
